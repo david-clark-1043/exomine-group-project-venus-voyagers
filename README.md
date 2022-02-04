@@ -1,4 +1,6 @@
-# Exomine
+See live page at: https://david-clark-1043.github.io/exomine-group-project-venus-voyagers/
+
+# Instructions
 
 This project has you building an application that lets governors of different colonies in our Solar System purchase minerals from various mining facilities that human have established.
 
